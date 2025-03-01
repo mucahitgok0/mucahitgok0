@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **mobile programming**
 
-- 🌱 I’m currently learning **Flutter
+- 🌱 I’m currently learning **Flutter**
 - **
 
 - 📫 How to reach me **mucahit.gok98@gmail.com**
