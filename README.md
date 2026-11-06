@@ -1,18 +1,18 @@
- ![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png)
+![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png)
 <h1 align="center">Hi 👋, I'm Mücahit Gök</h1>
 <h3 align="center">🔭 A passionate mobile developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucahitgok0&label=Profile%20views&color=0e75b6&style=flat" alt="mucahitgok0" /> </p>
 
 - 🔭 I’m currently working on **mobile programming**
-
 - 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **mucahit.gok98@gmail.com**
+- 🌐 Portfolio: **[mucahit-gok-portfolyo.vercel.app](https://mucahit-gok-portfolyo.vercel.app/)**
+- 📫 How to reach me: **mucahit.gok98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mucahitgok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mucahitgok" height="30" width="40" /></a>
+<a href="https://mucahit-gok-portfolyo.vercel.app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mucahitgok" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mucahitgok" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
